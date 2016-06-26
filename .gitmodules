@@ -1,0 +1,3 @@
+[submodule "ansible-cluster"]
+	path = ansible-cluster
+	url = https://github.com/senssei/ansible-mariadb-galera-cluster.git
